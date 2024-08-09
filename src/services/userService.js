@@ -32,7 +32,9 @@ class UserService {
         }
         //3. return the details of created user
         return newUser;
-    }   
+    } 
+    
+    
 }
 
 module.exports = UserService;
